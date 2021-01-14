@@ -17,7 +17,8 @@ namespace Swag.IO.Models
         public string Description { get; set; }
         public string[] Rating { get; set; }
 
-        //mapping my data source to my product model
+        //mapping my Product model so that i can be converted back to Json
+                                    // hence "Serialize""
          public override string ToString() => JsonSerializer.Serialize<Product>(this);
 
 

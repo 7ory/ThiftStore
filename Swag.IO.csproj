@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
+    <Content Include="Services\JsonFileProductService.cs" />
   </ItemGroup>
 
 </Project>
