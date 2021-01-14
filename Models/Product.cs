@@ -22,6 +22,7 @@ namespace Swag.IO.Models
 
 
         //public override string ToString()
+
         //{
         //    JsonSerializer.Serialize<Product>(this);
         //}
