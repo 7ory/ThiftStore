@@ -1,56 +1,61 @@
 [
-    {
-        "id" : "prod1",
-        "maker" :"John lean",
-        "img" : "https://www.instagram.com/p/CJ6aVouDg4J/",
-        "title": "Put the title here ;) ",
-        "description" : "Put my description here",
-        "ratings" : []
-    },
+  {
+    "id": "prod1",
+    "maker": "John lean",
+    "img": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
+    "url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+    "description": "Put my description here",
+    "ratings": []
+  },
 
-    {
-        "id" : "prod2",
-        "maker" :"Lerato Mtshali ",
-        "img" : "https://www.instagram.com/p/CJ83kiLj9fe/",
-        "title": "Put the title here ;) ",
-        "description" : "Put my description here",
-        "ratings" : []
-    },
+  {
+    "id": "prod2",
+    "maker": "Lerato Mtshali ",
+    "img": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
+    "url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+    "title": "Put the title here ;) ",
+    "description": "Put my description here",
+    "ratings": []
+  },
 
-    {
-        "id" : "prod3",
-        "maker" :"Berry Lain",
-        "img" : "https://www.instagram.com/p/CJ6amYnDGKr/",
-        "title": "Put the title here ;) ",
-        "description" : "Put my description here",
-        "ratings" : []
-    },
+  {
+    "id": "prod3",
+    "maker": "Berry Lain",
+    "img": "https://www.instagram.com/p/CJ6amYnDGKr/",
+    "url": "https://www.instagram.com/vintage_thrift_hub/",
+    "title": "Put the title here ;) ",
+    "description": "Put my description here",
+    "ratings": []
+  },
 
-    {
-        "id" : "prod4",
-        "maker" :"Kimba Zaily",
-        "img" : "https://www.instagram.com/p/CJ6Z_6xjBWU/",
-        "title": "Put the title here ;) ",
-        "description" : "Put my description here",
-        "ratings" : []
-    },
+  {
+    "id": "prod4",
+    "maker": "Kimba Zaily",
+    "img": "https://www.instagram.com/p/CJ6Z_6xjBWU/",
+    "url": "https://www.instagram.com/vintage_thrift_hub/",
+    "title": "Put the title here ;) ",
+    "description": "Put my description here",
+    "ratings": []
+  },
 
-    {
-        "id" : "prod5",
-        "maker" :"Naledi Soma ",
-        "img" : "https://www.instagram.com/p/CJ6ZarYD4TI/",
-        "title": "Put the title here ;) ",
-        "description" : "Put my description here",
-        "ratings" : []
-    },
+  {
+    "id": "prod5",
+    "maker": "Naledi Soma ",
+    "img": "https://www.instagram.com/p/CJ6ZarYD4TI/",
+    "url": "https://www.instagram.com/vintage_thrift_hub/",
+    "title": "Put the title here ;) ",
+    "description": "Put my description here",
+    "ratings": []
+  },
 
-    {
-        "id" : "prod6",
-        "maker" :"Wess Leroy ",
-        "img" : "https://www.instagram.com/p/CJgsskmDd3W/",
-        "title": "Put the title here ;) ",
-        "description" : "Put my description here",
-        "ratings" : []
-    }
+  {
+    "id": "prod6",
+    "maker": "Wess Leroy ",
+    "img": "https://www.instagram.com/p/CJgsskmDd3W/",
+    "url": "https://www.instagram.com/vintage_thrift_hub/",
+    "title": "Put the title here ;) ",
+    "description": "Put my description here",
+    "ratings": []
+  }
     
 ]

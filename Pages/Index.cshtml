@@ -8,7 +8,17 @@
     <h1 class="display-4">Swag IO</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
-@foreach(var item in Model.Products)
-{
-    <h1>@item.Maker</h1>
-}
+<div class="card-columns">
+    @foreach (var item in Model.Products)
+    {
+    <div class="card">
+        <div class="card-img" style="background-image:url('@item.Image')";></div>
+        <div class="card-body">
+            <h5 class="card-title">@item.Maker</h5>
+
+        </div>
+
+    </div>
+    }
+
+</div>
