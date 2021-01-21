@@ -2,8 +2,8 @@
   {
     "id": "prod1",
     "maker": "John lean",
-    "img": "https://user-images.githubusercontent.com/41929050/61567048-13938600-aa33-11e9-9cfd-712191013192.jpeg",
-    "url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Sweater%20_Pic2.jpg",
+    "url": "https://www.instagram.com/p/CIllfqRDKTz/",
     "description": "Put my description here",
     "ratings": []
   },
@@ -11,8 +11,8 @@
   {
     "id": "prod2",
     "maker": "Lerato Mtshali ",
-    "img": "https://user-images.githubusercontent.com/15223204/53126092-6113d180-352d-11e9-878b-dcff9b3c85fd.png",
-    "url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
+    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Cow%20boy%20set_Pic3.jpg",
+    "url": "https://www.instagram.com/p/CIllfqRDKTz/",
     "title": "Put the title here ;) ",
     "description": "Put my description here",
     "ratings": []
@@ -21,8 +21,8 @@
   {
     "id": "prod3",
     "maker": "Berry Lain",
-    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Picture%20one.png",
-    "url": "",
+    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Yellow%20set_Pic%204.jpg",
+    "url": "https://www.instagram.com/p/CIllfqRDKTz/",
     "title": "Put the title here ;) ",
     "description": "Put my description here",
     "ratings": []
@@ -31,7 +31,7 @@
   {
     "id": "prod4",
     "maker": "Kimba Zaily",
-    "img": "https://www.instagram.com/p/CJ6Z_6xjBWU/",
+    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Red%20set_Pic5.jpg",
     "url": "https://www.instagram.com/vintage_thrift_hub/",
     "title": "Put the title here ;) ",
     "description": "Put my description here",
@@ -41,7 +41,7 @@
   {
     "id": "prod5",
     "maker": "Naledi Soma ",
-    "img": "https://www.instagram.com/p/CJ6ZarYD4TI/",
+    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Summer%20set_Pic6.jpg",
     "url": "https://www.instagram.com/vintage_thrift_hub/",
     "title": "Put the title here ;) ",
     "description": "Put my description here",
@@ -51,11 +51,22 @@
   {
     "id": "prod6",
     "maker": "Wess Leroy ",
-    "img": "https://www.instagram.com/p/CJgsskmDd3W/",
+    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Mothery%20set_Pic7.jpg",
     "url": "https://www.instagram.com/vintage_thrift_hub/",
     "title": "Put the title here ;) ",
     "description": "Put my description here",
     "ratings": []
+  },
+
+
+  {
+    "id": "prod7",
+    "maker": "Tory Kaner ",
+    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Street%20junky%20set_Pic8.jpg",
+    "url": "c",
+    "title": "Put the title here ;) ",
+    "description": "Put my description here",
+    "ratings": []
   }
-    
+
 ]
