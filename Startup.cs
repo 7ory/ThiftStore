@@ -25,7 +25,7 @@ namespace Swag.IO
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
-            services.AddTransient<JsonFileProductService>();
+            services.AddTransient<JsonFileProductService>(); // My Service to retrieve my to get my data source
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
