@@ -2,7 +2,7 @@
   {
     "id": "prod1",
     "maker": "John lean",
-    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Picture%20one.png",
+    "img": "https://github.com/7ory/ThiftStore/blob/master/wwwroot/Data/Images/Picture%20one.png",
     "url": "https://www.instagram.com/p/CIllfqRDKTz/",
     "description": "Put my description here",
     "ratings": []
