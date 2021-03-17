@@ -28,6 +28,7 @@ namespace Swag.IO
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddControllers(); // Telling Asp.Net about my controller(Api)
             services.AddTransient<JsonFileProductService>(); // My Service to retrieve my to get my data source
         }
 
@@ -55,14 +56,15 @@ namespace Swag.IO
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
+                endpoints.MapControllers(); //mapping our new Api "ProductsController"
 
                 //Mapping endpoints for our Api to call our json on the '/products' url or route page
-                endpoints.MapGet("/products", (context) =>
-                {
-                    var products = app.ApplicationServices.GetService<JsonFileProductService>().GetProducts();
-                    var json = JsonSerializer.Serialize<IEnumerable<Product>>(products);
-                    return context.Response.WriteAsync(json);
-                });
+                //endpoints.MapGet("/products", (context) =>
+                //{
+                //    var products = app.ApplicationServices.GetService<JsonFileProductService>().GetProducts();
+                //    var json = JsonSerializer.Serialize<IEnumerable<Product>>(products);
+                //    return context.Response.WriteAsync(json);
+                //}); //the old way for an Web API
 
             });
         }
