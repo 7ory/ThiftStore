@@ -3,7 +3,7 @@
     "id": "prod1",
     "maker": "John lean",
     "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/number%201.jpg",
-    "url": "https://www.instagram.com/p/CIllfqRDKTz/",
+    "url": "https://www.instagram.com/vintage_thrift_hub/",
     "description": "Put my description here",
     "ratings": []
   },
@@ -11,8 +11,8 @@
   {
     "id": "prod2",
     "maker": "Lerato Mtshali ",
-    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/number%202.jpeg",
-    "url": "https://www.instagram.com/p/CIllfqRDKTz/",
+    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_2.jpg",
+    "url": "https://www.instagram.com/vintage_thrift_hub/",
     "title": "Put the title here ;) ",
     "description": "Put my description here",
     "ratings": [] 
@@ -21,8 +21,8 @@
   {
     "id": "prod3",
     "maker": "Berry Lain",
-    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/number%203.jpeg",
-    "url": "https://www.instagram.com/p/CIllfqRDKTz/",
+    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_3.jpg",
+    "url": "https://www.instagram.com/vintage_thrift_hub/",
     "title": "Put the title here ;) ",
     "description": "Put my description here",
     "ratings": []
@@ -31,7 +31,7 @@
   {
     "id": "prod4",
     "maker": "Kimba Zaily",
-    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Red%20set_Pic5.jpg",
+    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_4.jpg",
     "url": "https://www.instagram.com/vintage_thrift_hub/",
     "title": "Put the title here ;) ",
     "description": "Put my description here",
@@ -41,7 +41,7 @@
   {
     "id": "prod5",
     "maker": "Naledi Soma ",
-    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Summer%20set_Pic6.jpg",
+    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_5.jpg",
     "url": "https://www.instagram.com/vintage_thrift_hub/",
     "title": "Put the title here ;) ",
     "description": "Put my description here",
@@ -51,7 +51,7 @@
   {
     "id": "prod6",
     "maker": "Wess Leroy ",
-    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Mothery%20set_Pic7.jpg",
+    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_6.jpg",
     "url": "https://www.instagram.com/vintage_thrift_hub/",
     "title": "Put the title here ;) ",
     "description": "Put my description here",
@@ -62,7 +62,7 @@
   {
     "id": "prod7",
     "maker": "Tory Kaner ",
-    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Street%20junky%20set_Pic8.jpg",
+    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_7.jpg",
     "url": "https://www.instagram.com/vintage_thrift_hub/",
     "title": "Put the title here ;) ",
     "description": "Put my description here",
@@ -72,7 +72,7 @@
   {
     "id": "prod8",
     "maker": "Tory Kaner ",
-    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Boss%20lady%20set_Pic10.jpg",
+    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_8.jpg",
     "url": "https://www.instagram.com/vintage_thrift_hub/",
     "title": "Put the title here ;) ",
     "description": "Put my description here",
@@ -82,7 +82,7 @@
   {
     "id": "prod9",
     "maker": "Tholithemba Shamase ",
-    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Boss%20lady%20set%202_Pic11.jpg",
+    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_9.jpg",
     "url": "https://www.instagram.com/vintage_thrift_hub/",
     "title": "Put the title here ;) ",
     "description": "Put my description here",
@@ -92,7 +92,17 @@
   {
     "id": "prod10",
     "maker": "Leslie Tylan ",
-    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Boss%20lady%20set%203_Pic12.jpg",
+    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_10.jpg",
+    "url": "https://www.instagram.com/vintage_thrift_hub/",
+    "title": "Put the title here ;) ",
+    "description": "Put my description here",
+    "ratings": []
+  },
+  
+  {
+    "id": "prod11",
+    "maker": "Jimmy Miller",
+    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_11.jpg",
     "url": "https://www.instagram.com/vintage_thrift_hub/",
     "title": "Put the title here ;) ",
     "description": "Put my description here",
