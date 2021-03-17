@@ -2,7 +2,7 @@
   {
     "id": "prod1",
     "maker": "John lean",
-    "img": "",
+    "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/number%201.jpg",
     "url": "https://www.instagram.com/vintage_thrift_hub/",
     "description": "Put my description here",
     "ratings": []
@@ -71,7 +71,7 @@
 
   {
     "id": "prod8",
-    "maker": "Tory Kaner ",
+    "maker": "Amahle Thusi ",
     "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_8.jpg",
     "url": "https://www.instagram.com/vintage_thrift_hub/",
     "title": "Put the title here ;) ",
