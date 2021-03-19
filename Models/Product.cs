@@ -13,9 +13,10 @@ namespace Swag.IO.Models
         public string Maker { get; set; }
         [JsonPropertyName("img")]
         public string Image { get; set; }
+        public string Url { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
-        public string[] Rating { get; set; }
+        public int[] Ratings { get; set; }
 
         //mapping my Product model so that it can be converted back to Json
                                     // hence "Serialize""

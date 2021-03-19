@@ -26,5 +26,12 @@ namespace Swag.IO.Controllers
             return ProductService.GetProducts();
         }
 
+        [HttpGet]
+        public ActionResult Get(string ProductId, int Rating)
+        {
+            ProductService.AddRating(ProductId, Rating);
+
+            return Ok();
+        }
     }
 }
