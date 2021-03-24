@@ -26,8 +26,12 @@ namespace Swag.IO.Controllers
             return ProductService.GetProducts();
         }
 
+        //[HttpPatch] [FromBody]
+        [Route("Rate")]
         [HttpGet]
-        public ActionResult Get(string ProductId, int Rating)
+        public ActionResult Get(
+            [FromQuery] string ProductId,
+            [FromQuery] int Rating)
         {
             ProductService.AddRating(ProductId, Rating);
 
