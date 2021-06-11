@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.Json;
@@ -24,14 +24,12 @@ namespace ContosoCrafts.WebSite.Services
 
         public IEnumerable<Product> GetProducts()
         {
-            using (var jsonFileReader = File.OpenText(JsonFileName))
-            {
-                return JsonSerializer.Deserialize<Product[]>(jsonFileReader.ReadToEnd(),
-                    new JsonSerializerOptions
-                    {
-                        PropertyNameCaseInsensitive = true
-                    });
-            }
+            using var jsonFileReader = File.OpenText(JsonFileName);
+            return JsonSerializer.Deserialize<Product[]>(jsonFileReader.ReadToEnd(),
+                new JsonSerializerOptions
+                {
+                    PropertyNameCaseInsensitive = true
+                });
         }
 
         //adding a rating feature
@@ -42,7 +40,7 @@ namespace ContosoCrafts.WebSite.Services
             //LINQ = **
             var query = products.First(x => x.Id == productId);
 
-            if(query.Ratings == null)
+            if (query.Ratings == null)
             {
                 query.Ratings = new int[] { rating };
             }
@@ -54,18 +52,16 @@ namespace ContosoCrafts.WebSite.Services
             }
 
             //writng to the JsonFile/DB
-            using(var outputStream = File.OpenWrite(JsonFileName))
-            {
-                JsonSerializer.Serialize<IEnumerable<Product>>(
-                   new Utf8JsonWriter(outputStream, new JsonWriterOptions
-                   {
-                       SkipValidation = true,
-                       Indented = true
-                   }),
-                   products
-                   );
-            }
-            
+            using var outputStream = File.OpenWrite(JsonFileName);
+            JsonSerializer.Serialize<IEnumerable<Product>>(
+               new Utf8JsonWriter(outputStream, new JsonWriterOptions
+               {
+                   SkipValidation = true,
+                   Indented = true
+               }),
+               products
+               );
+
         }
     }
 }
