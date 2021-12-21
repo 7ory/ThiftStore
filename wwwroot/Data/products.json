@@ -1,112 +1,103 @@
 [
   {
-    "id": "prod1",
-    "maker": "John lean",
+    "Id": "prod1",
+    "Maker": "John lean",
     "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/number%201.jpg",
-    "url": "https://www.instagram.com/vintage_thrift_hub/",
-    "description": "Put my description here"
-    
+    "Url": "https://www.instagram.com/vintage_thrift_hub/",
+    "Title": null,
+    "Description": "Put my description here",
+    "Ratings": [
+      5
+    ]
   },
-
   {
-    "id": "prod2",
-    "maker": "Lerato Mtshali ",
+    "Id": "prod2",
+    "Maker": "Lerato Mtshali ",
     "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_2.jpg",
-    "url": "https://www.instagram.com/vintage_thrift_hub/",
-    "title": "Put the title here ;) ",
-    "description": "Put my description here"
-     
+    "Url": "https://www.instagram.com/vintage_thrift_hub/",
+    "Title": "Put the title here ;) ",
+    "Description": "Put my description here",
+    "Ratings": null
   },
-
   {
-    "id": "prod3",
-    "maker": "Berry Lain",
+    "Id": "prod3",
+    "Maker": "Berry Lain",
     "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_3.jpg",
-    "url": "https://www.instagram.com/vintage_thrift_hub/",
-    "title": "Put the title here ;) ",
-    "description": "Put my description here"
-    
+    "Url": "https://www.instagram.com/vintage_thrift_hub/",
+    "Title": "Put the title here ;) ",
+    "Description": "Put my description here",
+    "Ratings": null
   },
-
   {
-    "id": "prod4",
-    "maker": "Kimba Zaily",
+    "Id": "prod4",
+    "Maker": "Kimba Zaily",
     "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_4.jpg",
-    "url": "https://www.instagram.com/vintage_thrift_hub/",
-    "title": "Put the title here ;) ",
-    "description": "Put my description here"
-   
+    "Url": "https://www.instagram.com/vintage_thrift_hub/",
+    "Title": "Put the title here ;) ",
+    "Description": "Put my description here",
+    "Ratings": null
   },
-
   {
-    "id": "prod5",
-    "maker": "Naledi Soma ",
+    "Id": "prod5",
+    "Maker": "Naledi Soma ",
     "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_5.jpg",
-    "url": "https://www.instagram.com/vintage_thrift_hub/",
-    "title": "Put the title here ;) ",
-    "description": "Put my description here"
-    
+    "Url": "https://www.instagram.com/vintage_thrift_hub/",
+    "Title": "Put the title here ;) ",
+    "Description": "Put my description here",
+    "Ratings": null
   },
-
   {
-    "id": "prod6",
-    "maker": "Wess Leroy ",
+    "Id": "prod6",
+    "Maker": "Wess Leroy ",
     "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_6.jpg",
-    "url": "https://www.instagram.com/vintage_thrift_hub/",
-    "title": "Put the title here ;) ",
-    "description": "Put my description here"
-    
+    "Url": "https://www.instagram.com/vintage_thrift_hub/",
+    "Title": "Put the title here ;) ",
+    "Description": "Put my description here",
+    "Ratings": null
   },
-
-
   {
-    "id": "prod7",
-    "maker": "Tory Kaner ",
+    "Id": "prod7",
+    "Maker": "Tory Kaner ",
     "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_7.jpg",
-    "url": "https://www.instagram.com/vintage_thrift_hub/",
-    "title": "Put the title here ;) ",
-    "description": "Put my description here"
-    
+    "Url": "https://www.instagram.com/vintage_thrift_hub/",
+    "Title": "Put the title here ;) ",
+    "Description": "Put my description here",
+    "Ratings": null
   },
-
   {
-    "id": "prod8",
-    "maker": "Amahle Thusi ",
+    "Id": "prod8",
+    "Maker": "Amahle Thusi ",
     "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_8.jpg",
-    "url": "https://www.instagram.com/vintage_thrift_hub/",
-    "title": "Put the title here ;) ",
-    "description": "Put my description here"
-    
+    "Url": "https://www.instagram.com/vintage_thrift_hub/",
+    "Title": "Put the title here ;) ",
+    "Description": "Put my description here",
+    "Ratings": null
   },
-
   {
-    "id": "prod9",
-    "maker": "Tholithemba Shamase ",
+    "Id": "prod9",
+    "Maker": "Tholithemba Shamase ",
     "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_9.jpg",
-    "url": "https://www.instagram.com/vintage_thrift_hub/",
-    "title": "Put the title here ;) ",
-    "description": "Put my description here"
-    
+    "Url": "https://www.instagram.com/vintage_thrift_hub/",
+    "Title": "Put the title here ;) ",
+    "Description": "Put my description here",
+    "Ratings": null
   },
-
   {
-    "id": "prod10",
-    "maker": "Leslie Tylan ",
+    "Id": "prod10",
+    "Maker": "Leslie Tylan ",
     "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_10.jpg",
-    "url": "https://www.instagram.com/vintage_thrift_hub/",
-    "title": "Put the title here ;) ",
-    "description": "Put my description here"
-    
+    "Url": "https://www.instagram.com/vintage_thrift_hub/",
+    "Title": "Put the title here ;) ",
+    "Description": "Put my description here",
+    "Ratings": null
   },
-  
   {
-    "id": "prod11",
-    "maker": "Jimmy Miller",
+    "Id": "prod11",
+    "Maker": "Jimmy Miller",
     "img": "https://raw.githubusercontent.com/7ory/ThiftStore/master/wwwroot/Data/Images/Item_11.jpg",
-    "url": "https://www.instagram.com/vintage_thrift_hub/",
-    "title": "Put the title here ;) ",
-    "description": "Put my description here"
-    
+    "Url": "https://www.instagram.com/vintage_thrift_hub/",
+    "Title": "Put the title here ;) ",
+    "Description": "Put my description here",
+    "Ratings": null
   }
-
 ]
