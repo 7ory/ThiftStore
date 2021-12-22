@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.Json;
 using System.Threading.Tasks;
-using ContosoCrafts.WebSite.Services;
+using Swag.IO.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -30,6 +30,7 @@ namespace Swag.IO
             services.AddRazorPages();
             services.AddControllers(); // Telling Asp.Net about my controller(Api)
             services.AddTransient<JsonFileProductService>(); // My Service to retrieve my to get my data source
+            services.AddServerSideBlazor();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -57,6 +58,7 @@ namespace Swag.IO
             {
                 endpoints.MapRazorPages();
                 endpoints.MapControllers(); //mapping our new Api "ProductsController"
+                endpoints.MapBlazorHub();
 
                 //Mapping endpoints for our Api to call our json on the '/products' url or route page
                 //endpoints.MapGet("/products", (context) =>

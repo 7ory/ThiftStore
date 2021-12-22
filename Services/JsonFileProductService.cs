@@ -2,11 +2,11 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.Json;
-using ContosoCrafts.WebSite.Services;
+using Swag.IO.Services;
 using Microsoft.AspNetCore.Hosting;
 using Swag.IO.Models;
 
-namespace ContosoCrafts.WebSite.Services
+namespace Swag.IO.Services
 {
     public class JsonFileProductService
     {
